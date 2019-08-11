@@ -1,5 +1,5 @@
-# How to Filter a HTML Table Using JavaScript
-How to Filter a HTML Table Using JavaScript
+# How to Filter an HTML Table Using JavaScript
+How to Filter an HTML Table Using JavaScript
 
 Article: https://speedysense.com/filter-html-table-using-javascript/
 
